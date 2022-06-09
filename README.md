@@ -78,7 +78,7 @@ for i,j in enumerate(np.unique(y_Set)):
 ```
 
 ## Output:
-![output]()
+![output](https://github.com/Hemapriya-2004/-Implementation-of-Logistic-Regression-Using-Gradient-Descent/blob/50250231d14ba02b6907946d70c0e289f3060679/lr.PNG)
 
 
 ## Result:
